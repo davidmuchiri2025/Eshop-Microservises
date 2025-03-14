@@ -1,6 +1,4 @@
 ﻿
-using Catalog.API.Models;
-
 namespace Catalog.API.Products.GetProductByCategory;
 
 public record GetProductByCategoryQuery(string Category) : IQuery<GetProductByCategoryResult>;
