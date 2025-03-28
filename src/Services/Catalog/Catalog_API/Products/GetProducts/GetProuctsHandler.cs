@@ -1,4 +1,5 @@
 ﻿using Catalog.API.Models;
+using BuildingBlocks.CQRS;
 
 namespace Catalog.API.Products.GetProducts;
 

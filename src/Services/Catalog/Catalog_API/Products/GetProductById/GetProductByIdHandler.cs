@@ -1,6 +1,6 @@
 ﻿using Catalog.API.Exceptions;
 using Catalog.API.Models;
-using BuildingBlocks.;
+using BuildingBlocks;
 
 namespace Catalog.API.Products.GetProductById;
 
