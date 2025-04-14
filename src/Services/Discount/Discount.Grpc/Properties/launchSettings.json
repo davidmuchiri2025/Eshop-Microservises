@@ -1,4 +1,4 @@
-﻿{
+{
   "profiles": {
     "Discount.Grpc": {
       "commandName": "Project",
@@ -6,7 +6,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "https://localhost:63621;http://localhost:63628"
+      "applicationUrl": "https://localhost:52082;http://localhost:52083"
     }
   }
 }
